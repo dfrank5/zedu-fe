@@ -17,7 +17,7 @@ export const zeduQuetzalContributors: Contributor[] = [
   { name: "Basi", username: "Basi" },
   { name: "Olanrewaju john", username: "johnlanre573" },
   { name: "Increase Akinwole", username: "increaseakinwole" },
-  { name: "Douye Frank", username: "douye frank" },
+  { name: "douye frank", username: "douye frank" },
   { name: "Canon", username: "Canon" },
   { name: "Cyrus", username: "Cyrus" },
   { name: "Hauwa Ismail", username: "Hauwa Ismail" },
